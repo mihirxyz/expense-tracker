@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1764680266074,
+        "amount": 250.0,
+        "category": "Food",
+        "note": "lunch at mcd",
+        "date": "2025-12-02 18:27:46"
+    },
+    {
+        "id": 1764680278646,
+        "amount": 20.0,
+        "category": "Food",
+        "note": "coke",
+        "date": "2025-12-02 18:27:58"
+    },
+    {
+        "id": 1764680294114,
+        "amount": 2500.0,
+        "category": "Bills",
+        "note": "electricity",
+        "date": "2025-12-02 18:28:14"
+    },
+    {
+        "id": 1764680322909,
+        "amount": 350.0,
+        "category": "Shopping",
+        "note": "phone case",
+        "date": "2025-12-02 18:28:42"
+    },
+    {
+        "id": 1764680334067,
+        "amount": 400.0,
+        "category": "Transport",
+        "note": "cab",
+        "date": "2025-12-02 18:28:54"
+    },
+    {
+        "id": 1764680401763,
+        "amount": 3000.0,
+        "category": "Transport",
+        "note": "flight ticket",
+        "date": "2025-12-02 18:30:01"
+    },
+    {
+        "id": 1764680410414,
+        "amount": 200.0,
+        "category": "Food",
+        "note": "lunch at mcd",
+        "date": "2025-12-02 18:30:10"
+    },
+    {
+        "id": 1764680431794,
+        "amount": 400.0,
+        "category": "Bills",
+        "note": "mobile recharge",
+        "date": "2025-12-02 18:30:31"
+    },
+    {
+        "id": 1764680450118,
+        "amount": 300.0,
+        "category": "Health",
+        "note": "doctor",
+        "date": "2025-12-02 18:30:50"
+    }
+]
